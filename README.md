@@ -1,35 +1,37 @@
 # Marcelo Gómez
 
-### Derecho · Gestión · Tecnología aplicada
+### Derecho · Gestión judicial · Tecnología aplicada
 
-Trabajo en la intersección entre el derecho, la gestión de procesos y el desarrollo de soluciones digitales. Mi enfoque consiste en comprender sistemas complejos, detectar fricciones operativas y convertirlas en herramientas claras, útiles y verificables.
+Desarrollo herramientas digitales orientadas a resolver necesidades concretas de trabajo, con especial interés en la simplificación de procesos, la organización de información y la mejora de la experiencia de uso.
 
-Me interesa especialmente la aplicación responsable de la inteligencia artificial y la automatización en ámbitos jurídicos, institucionales y de gestión. También desarrollo proyectos vinculados con la filosofía, los sistemas simbólicos y nuevas formas de organizar el conocimiento.
+Este perfil reúne exclusivamente proyectos que decidí publicar y compartir. Cada repositorio cuenta con su propia documentación, alcance y condiciones de uso.
 
-## Áreas de trabajo
+## Proyectos públicos
 
-- **Tecnología jurídica:** herramientas para ordenar información, reducir tareas repetitivas y mejorar la trazabilidad.
-- **Inteligencia artificial aplicada:** diseño de flujos de trabajo, asistentes especializados y sistemas de apoyo al análisis.
-- **Gestión y automatización:** transformación de necesidades concretas en procesos más simples y sostenibles.
-- **Diseño de herramientas:** aplicaciones accesibles, centradas en el usuario y orientadas a resolver problemas reales.
-- **Investigación interdisciplinaria:** cruces entre derecho, tecnología, filosofía, historia y cultura.
+### [Herramientas J15 · Secretaría 29](https://github.com/sinergiaestudio/herramientas-j15sec29)
 
-## Proyectos seleccionados
+Espacio público destinado a reunir herramientas de apoyo para tareas operativas de la Secretaría 29, con criterios comunes de diseño, claridad y utilidad práctica.
 
 ### [Diplomaker](https://github.com/sinergiaestudio/diplomaker)
 
-Aplicación de código abierto para crear diplomas y certificados individuales o por lote. Permite importar planillas, revisar datos y exportar documentos en PDF, PNG o ZIP, con procesamiento local en el navegador.
+Aplicación de código abierto para crear diplomas y certificados individuales o por lote. Permite importar planillas, revisar información y exportar documentos en distintos formatos, con procesamiento local en el navegador.
 
-### [Jardín de las Mutaciones](https://github.com/sinergiaestudio/jardin-de-las-mutaciones)
+## Próximamente
 
-Experiencia digital inspirada en el *I Ching*, concebida como una herramienta contemporánea de consulta simbólica, reflexión estructurada y registro personal.
+### Confronte de liquidaciones
 
-## Principios
+Herramienta para asistir en el confronte y revisión estructurada de liquidaciones. El proyecto se incorporará al perfil cuando su repositorio público y su documentación estén disponibles.
 
-Construyo desde problemas concretos y con una premisa sencilla: la tecnología tiene valor cuando aumenta la claridad, reduce la carga innecesaria y mejora la capacidad humana de comprender y decidir.
+## Criterios de publicación
 
-Priorizo la privacidad, el lenguaje claro, la trazabilidad y el diseño responsable. En los proyectos públicos utilizo exclusivamente datos ficticios o anonimizados y recursos libres de información institucional sensible.
+- utilidad concreta;
+- funcionamiento comprensible;
+- documentación clara;
+- respeto por la privacidad;
+- ausencia de datos personales o información sensible;
+- mejora continua a partir del uso real.
 
 ---
 
-**Buenos Aires, Argentina**
+**Marcelo Gómez**  
+Buenos Aires, Argentina
