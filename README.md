@@ -1,35 +1,68 @@
 # Marcelo Gómez
 
-### Derecho · Gestión judicial · Tecnología aplicada
+### Derecho · Gestión · Tecnología aplicada
 
-Desarrollo herramientas digitales orientadas a resolver necesidades concretas de trabajo, con especial interés en la simplificación de procesos, la organización de información y la mejora de la experiencia de uso.
+Diseño herramientas digitales para convertir procesos complejos en experiencias más claras, verificables y humanas.
 
-Este perfil reúne exclusivamente proyectos que decidí publicar y compartir. Cada repositorio cuenta con su propia documentación, alcance y condiciones de uso.
+Mi recorrido no es el de un desarrollador de software tradicional. Trabajo desde el conocimiento directo de los problemas, especialmente en el ámbito jurídico y organizacional, y combino análisis, diseño, automatización e inteligencia artificial para construir soluciones concretas.
+
+Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio, preservan la intervención humana y hacen visible cómo se obtiene cada resultado.
+
+## Áreas de trabajo
+
+- tecnología aplicada a la gestión judicial;
+- automatización y mejora de procesos;
+- lectura, normalización y confronte de documentos;
+- diseño de herramientas locales y orientadas a la privacidad;
+- productos digitales con información compleja;
+- experimentación creativa y aprendizaje interdisciplinario.
 
 ## Proyectos públicos
 
-### [Herramientas J15 · Secretaría 29](https://github.com/sinergiaestudio/herramientas-j15sec29)
+### Gestión judicial
 
-Espacio público destinado a reunir herramientas de apoyo para tareas operativas de la Secretaría 29, con criterios comunes de diseño, claridad y utilidad práctica.
+#### [Herramientas SEC29](https://github.com/sinergiaestudio/herramientas-j15sec29)
 
-### [Diplomaker](https://github.com/sinergiaestudio/diplomaker)
+Suite modular para tareas operativas de la Secretaría 29. Reúne procesamiento de actuaciones y vencimientos, carga asistida de actuaciones y cédulas, y confronte de liquidaciones dentro de una experiencia común.
 
-Aplicación de código abierto para crear diplomas y certificados individuales o por lote. Permite importar planillas, revisar información y exportar documentos en distintos formatos, con procesamiento local en el navegador.
+#### [Confronte de Liquidaciones EJF](https://github.com/sinergiaestudio/Confronte-Liquidaciones-EJF-v2.1.0)
 
-## Próximamente
+Aplicación web para comparar constancias de deuda y liquidaciones mandatarias, revisar la lectura de los documentos y recalcular intereses con trazabilidad por período. Procesa los archivos localmente y mantiene la decisión final bajo control profesional.
 
-### Confronte de liquidaciones
+#### [Cédulas EJE](https://github.com/sinergiaestudio/Cedulas-EJE-v1.0)
 
-Herramienta para asistir en el confronte y revisión estructurada de liquidaciones. El proyecto se incorporará al perfil cuando su repositorio público y su documentación estén disponibles.
+Herramienta para analizar actuaciones en PDF, distinguir cédulas remitidas, observadas o ambiguas y asistir su incorporación en EJE. Expone la evidencia utilizada y se detiene cuando no puede verificar una operación.
+
+### Herramientas de propósito general
+
+#### [Diplomaker](https://github.com/sinergiaestudio/diplomaker)
+
+Estudio local de diplomas y certificados. Permite diseñar plantillas reutilizables, importar datos, revisar la información y emitir documentos individuales o por lote sin enviar archivos a un servidor.
+
+#### [Entheos](https://github.com/sinergiaestudio/entheos)
+
+Aplicación de historia personal de salud que reúne mediciones, hábitos, síntomas, antecedentes, laboratorios y documentos en un contexto único, con procedencia visible, separación por usuario y una arquitectura orientada a la privacidad.
+
+### Exploración creativa
+
+#### [Zanahoria Terminal · Amor en Escabeche](https://github.com/sinergiaestudio/ZT-AE)
+
+Videojuego 2D para navegador creado junto a mi hijo Yaco como proyecto de aprendizaje compartido. Integra diseño, programación, narrativa, ilustración, música, accesibilidad y publicación como aplicación web instalable.
+
+## Cómo trabajo
+
+1. Comprender el proceso real antes de automatizarlo.
+2. Separar lectura automática, inferencia y confirmación humana.
+3. Diseñar para que los errores puedan detectarse y corregirse.
+4. Procesar localmente la información cuando la naturaleza del problema lo permite.
+5. Documentar alcance, límites, privacidad y criterios de aceptación.
+6. Usar inteligencia artificial como instrumento de análisis y construcción, no como sustituto del juicio profesional.
 
 ## Criterios de publicación
 
-- utilidad concreta;
-- funcionamiento comprensible;
-- documentación clara;
-- respeto por la privacidad;
-- ausencia de datos personales o información sensible;
-- mejora continua a partir del uso real.
+Los repositorios públicos contienen código, documentación y ejemplos ficticios o sanitizados. No publico expedientes, documentos clínicos, credenciales, datos personales ni materiales internos.
+
+Las herramientas vinculadas con la actividad judicial son desarrollos independientes de asistencia: no constituyen sistemas oficiales y no reemplazan la revisión profesional.
 
 ---
 
