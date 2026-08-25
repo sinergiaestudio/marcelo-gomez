@@ -37,7 +37,17 @@ Herramienta para analizar actuaciones en PDF, distinguir cédulas remitidas, obs
 
 #### [Diplomaker](https://github.com/sinergiaestudio/diplomaker)
 
+<p>
+  <a href="https://github.com/sinergiaestudio/diplomaker">
+    <img src="https://raw.githubusercontent.com/sinergiaestudio/diplomaker/v2.2.0-alpha.2/assets/brand/diplomaker-horizontal.svg" alt="Diplomaker" width="380">
+  </a>
+</p>
+
+**Diseñá una vez. Emití con precisión.**
+
 Estudio local de diplomas y certificados. Permite diseñar plantillas reutilizables, importar datos, revisar la información y emitir documentos individuales o por lote sin enviar archivos a un servidor.
+
+[Usar la versión estable](https://sinergiaestudio.github.io/diplomaker/) · [Ver el repositorio](https://github.com/sinergiaestudio/diplomaker) · [Probar Diplomaker 2.2](https://github.com/sinergiaestudio/diplomaker/releases/tag/v2.2.0-alpha.2)
 
 #### [Entheos](https://github.com/sinergiaestudio/entheos)
 
