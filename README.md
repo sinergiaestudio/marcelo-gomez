@@ -1,68 +1,47 @@
 # Marcelo Gómez
 
-### Derecho · Gestión · Tecnología aplicada
+### Derecho · Gestión judicial · Tecnología aplicada
 
-Diseño herramientas digitales para convertir procesos complejos en experiencias más claras, verificables y humanas.
+Desarrollo herramientas digitales orientadas a resolver necesidades concretas de trabajo, con especial interés en la simplificación de procesos, la organización de información y la mejora de la experiencia de uso.
 
-Mi recorrido no es el de un desarrollador de software tradicional. Trabajo desde el conocimiento directo de los problemas, especialmente en el ámbito jurídico y organizacional, y combino análisis, diseño, automatización e inteligencia artificial para construir soluciones concretas.
-
-Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio, preservan la intervención humana y hacen visible cómo se obtiene cada resultado.
-
-## Áreas de trabajo
-
-- tecnología aplicada a la gestión judicial;
-- automatización y mejora de procesos;
-- lectura, normalización y confronte de documentos;
-- diseño de herramientas locales y orientadas a la privacidad;
-- productos digitales con información compleja;
-- experimentación creativa y aprendizaje interdisciplinario.
+Este perfil reúne exclusivamente proyectos que decidí publicar y compartir. Cada repositorio cuenta con su propia documentación, alcance y condiciones de uso.
 
 ## Proyectos públicos
 
-### Gestión judicial
+### [Herramientas J15 · Secretaría 29](https://github.com/sinergiaestudio/herramientas-j15sec29)
 
-#### [Herramientas SEC29](https://github.com/sinergiaestudio/herramientas-j15sec29)
+Espacio público destinado a reunir herramientas de apoyo para tareas operativas de la Secretaría 29, con criterios comunes de diseño, claridad y utilidad práctica.
 
-Suite modular para tareas operativas de la Secretaría 29. Reúne procesamiento de actuaciones y vencimientos, carga asistida de actuaciones y cédulas, y confronte de liquidaciones dentro de una experiencia común.
+---
 
-#### [Confronte de Liquidaciones EJF](https://github.com/sinergiaestudio/Confronte-Liquidaciones-EJF-v2.1.0)
+<p>
+  <img src="https://raw.githubusercontent.com/sinergiaestudio/diplomaker/release/2.2.0/assets/brand/diplomaker-horizontal.svg" alt="Diplomaker" width="430">
+</p>
 
-Aplicación web para comparar constancias de deuda y liquidaciones mandatarias, revisar la lectura de los documentos y recalcular intereses con trazabilidad por período. Procesa los archivos localmente y mantiene la decisión final bajo control profesional.
+### Diseñá una vez. Emití con precisión.
 
-#### [Cédulas EJE](https://github.com/sinergiaestudio/Cedulas-EJE-v1.0)
+**Diplomaker** es un estudio local y de código abierto para diseñar plantillas reutilizables y emitir diplomas o certificados individuales y por lote.
 
-Herramienta para analizar actuaciones en PDF, distinguir cédulas remitidas, observadas o ambiguas y asistir su incorporación en EJE. Expone la evidencia utilizada y se detiene cuando no puede verificar una operación.
+Permite importar planillas, revisar información, administrar proyectos, trabajar sin conexión y exportar PDF, PNG o ZIP. La edición 2.2 incorpora identidad oficial, tema claro y oscuro, biblioteca de proyectos y una aplicación de escritorio para Windows.
 
-### Herramientas de propósito general
+[Usar en línea](https://sinergiaestudio.github.io/diplomaker/) · [Repositorio](https://github.com/sinergiaestudio/diplomaker) · [Versiones y descargas](https://github.com/sinergiaestudio/diplomaker/releases)
 
-#### [Diplomaker](https://github.com/sinergiaestudio/diplomaker)
+> Tus plantillas. Tus datos. Tus certificados.
 
-Estudio local de diplomas y certificados. Permite diseñar plantillas reutilizables, importar datos, revisar la información y emitir documentos individuales o por lote sin enviar archivos a un servidor.
+## Próximamente
 
-#### [Entheos](https://github.com/sinergiaestudio/entheos)
+### Confronte de liquidaciones
 
-Aplicación de historia personal de salud que reúne mediciones, hábitos, síntomas, antecedentes, laboratorios y documentos en un contexto único, con procedencia visible, separación por usuario y una arquitectura orientada a la privacidad.
-
-### Exploración creativa
-
-#### [Zanahoria Terminal · Amor en Escabeche](https://github.com/sinergiaestudio/ZT-AE)
-
-Videojuego 2D para navegador creado junto a mi hijo Yaco como proyecto de aprendizaje compartido. Integra diseño, programación, narrativa, ilustración, música, accesibilidad y publicación como aplicación web instalable.
-
-## Cómo trabajo
-
-1. Comprender el proceso real antes de automatizarlo.
-2. Separar lectura automática, inferencia y confirmación humana.
-3. Diseñar para que los errores puedan detectarse y corregirse.
-4. Procesar localmente la información cuando la naturaleza del problema lo permite.
-5. Documentar alcance, límites, privacidad y criterios de aceptación.
-6. Usar inteligencia artificial como instrumento de análisis y construcción, no como sustituto del juicio profesional.
+Herramienta para asistir en el confronte y revisión estructurada de liquidaciones. El proyecto se incorporará al perfil cuando su repositorio público y su documentación estén disponibles.
 
 ## Criterios de publicación
 
-Los repositorios públicos contienen código, documentación y ejemplos ficticios o sanitizados. No publico expedientes, documentos clínicos, credenciales, datos personales ni materiales internos.
-
-Las herramientas vinculadas con la actividad judicial son desarrollos independientes de asistencia: no constituyen sistemas oficiales y no reemplazan la revisión profesional.
+- utilidad concreta;
+- funcionamiento comprensible;
+- documentación clara;
+- respeto por la privacidad;
+- ausencia de datos personales o información sensible;
+- mejora continua a partir del uso real.
 
 ---
 
