@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 126" width="520" height="126" role="img" aria-labelledby="t d">
+  <title id="t">Diplomaker</title><desc id="d">Logotipo de Diplomaker adaptado al tema oscuro.</desc>
+  <defs><linearGradient id="paper" x1="8" y1="4" x2="78" y2="88" gradientUnits="userSpaceOnUse"><stop stop-color="#5f8fbe"/><stop offset="1" stop-color="#315d8b"/></linearGradient></defs>
+  <rect width="520" height="126" rx="22" fill="#101826"/><rect x="1.5" y="1.5" width="517" height="123" rx="20.5" fill="none" stroke="#2f4056" stroke-width="3"/>
+  <g transform="translate(24 23)"><path d="M13 0h39l17 17v57a6 6 0 0 1-6 6H13a6 6 0 0 1-6-6V6a6 6 0 0 1 6-6Z" fill="url(#paper)"/><path d="M52 0v13a6 6 0 0 0 6 6h11" fill="#8db0d3" opacity=".8"/><path d="M25 24v34h11.5C48 58 54 51.3 54 41S48 24 36.5 24H25Zm9 8h2.2c5.8 0 8.8 3 8.8 9s-3 9-8.8 9H34V32Z" fill="#fff"/><circle cx="62" cy="64" r="10" fill="#c6a15d" stroke="#f7f4ec" stroke-width="3"/><path d="m57.8 64 2.7 2.7 6.1-6.1" fill="none" stroke="#fff" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="132" y="63" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="43" font-weight="760" letter-spacing="-1">Diplomaker</text>
+  <text x="134" y="91" fill="#a9b6c8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="560" letter-spacing=".4">Estudio local de diplomas y certificados</text>
+</svg>
