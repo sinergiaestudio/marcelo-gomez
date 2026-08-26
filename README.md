@@ -4,7 +4,7 @@
 
 ### Gestión judicial · Derecho · Innovación tecnológica aplicada
 
-Diseño herramientas digitales para transformar procesos complejos en experiencias más claras, verificables y humanas.
+Diseño sistemas y experiencias digitales para transformar procesos complejos en recorridos más claros, verificables y humanos.
 
 </div>
 
@@ -14,11 +14,24 @@ Mi recorrido no es el de un desarrollador de software tradicional. Trabajo desde
 
 Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio, preservan la intervención humana y permiten comprender cómo se obtiene cada resultado.
 
-## Proyecto matriz
+## Sistemas y gestión judicial
 
 <table>
   <tr>
-    <td width="120" align="center" valign="middle">
+    <td width="210" align="center" valign="middle">
+      <a href="https://sinergiaestudio.github.io/JXJ/">
+        <img src="https://raw.githubusercontent.com/sinergiaestudio/JXJ/main/assets/brand/jxj-logo-general.png" alt="JXJ · Juicios por Jurados" width="185">
+      </a>
+    </td>
+    <td valign="middle">
+      <h3>JXJ · Juicios por Jurados</h3>
+      <p>Plataforma especializada para organizar juicios, objetivos, tareas, agenda, padrón, selección de jurados, contabilidad, usuarios y trazabilidad en un único entorno institucional.</p>
+      <p><a href="https://sinergiaestudio.github.io/JXJ/"><strong>Ver la presentación</strong></a> · <a href="https://github.com/sinergiaestudio/JXJ">Repositorio público</a></p>
+      <p><sub>Beta institucional avanzada · presentación pública con código fuente privado.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="210" align="center" valign="middle">
       <a href="https://github.com/sinergiaestudio/herramientas-j15sec29">
         <img src="https://raw.githubusercontent.com/sinergiaestudio/herramientas-j15sec29/main/docs/assets/icons/icon-512.png" alt="Herramientas SEC29" width="92">
       </a>
@@ -26,12 +39,10 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
     <td valign="middle">
       <h3>Herramientas SEC29</h3>
       <p>Suite modular para tareas operativas de la Secretaría 29. Integra procesamiento de actuaciones y vencimientos, carga asistida, cédulas y confronte de liquidaciones dentro de una experiencia común.</p>
-      <p><a href="https://sinergiaestudio.github.io/herramientas-j15sec29/"><strong>Abrir la suite</strong></a> · <a href="https://github.com/sinergiaestudio/herramientas-j15sec29">Ver el repositorio</a></p>
+      <p><a href="https://sinergiaestudio.github.io/herramientas-j15sec29/"><strong>Abrir la suite</strong></a> · <a href="https://github.com/sinergiaestudio/herramientas-j15sec29">Código y documentación</a></p>
     </td>
   </tr>
 </table>
-
-## Aplicaciones seleccionadas
 
 <table>
   <tr>
@@ -52,6 +63,11 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
       <p><a href="https://sinergiaestudio.github.io/Cedulas-EJE-v1.0/"><strong>Abrir</strong></a> · <a href="https://github.com/sinergiaestudio/Cedulas-EJE-v1.0">Código y documentación</a></p>
     </td>
   </tr>
+</table>
+
+## Productos digitales
+
+<table>
   <tr>
     <td width="50%" align="center" valign="top">
       <br>
@@ -66,7 +82,7 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
     <td width="50%" align="center" valign="top">
       <br>
       <a href="https://github.com/sinergiaestudio/entheos">
-        <img src="https://raw.githubusercontent.com/sinergiaestudio/entheos/main/docs/brand/entheos-02-logo-completo.png" alt="Entheos — Tu salud en contexto" width="92%">
+        <img src="https://raw.githubusercontent.com/sinergiaestudio/entheos/main/docs/brand/entheos-02-logo-completo.png" alt="Entheos · Tu salud en contexto" width="92%">
       </a>
       <h3>Entheos</h3>
       <p><strong>Tu salud en contexto.</strong></p>
@@ -76,19 +92,26 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
   </tr>
 </table>
 
-## Laboratorio creativo
+## Cultura, aprendizaje y experimentación
 
 <table>
   <tr>
-    <td width="45%" align="center" valign="middle">
-      <a href="https://sinergiaestudio.github.io/ZT-AE/">
-        <img src="https://raw.githubusercontent.com/sinergiaestudio/ZT-AE/main/assets/images/ui/title-overhaul-v2.webp" alt="Zanahoria Terminal — Amor en Escabeche" width="100%">
+    <td width="50%" align="center" valign="top">
+      <a href="https://tao.ar">
+        <img src="https://raw.githubusercontent.com/sinergiaestudio/Tao.ar-presentacion/main/assets/taoar-share-landing.png" alt="TAO.AR · Jardín de las Mutaciones" width="100%">
       </a>
+      <h3>TAO.AR · Jardín de las Mutaciones</h3>
+      <p>Experiencia digital para consultar y estudiar el I Ching con belleza, cuidado, claridad metodológica y memoria personal local.</p>
+      <p><a href="https://tao.ar"><strong>Entrar</strong></a> · <a href="https://github.com/sinergiaestudio/Tao.ar-presentacion">Ver la presentación</a></p>
+      <p><sub>Beta online avanzada · presentación pública con código fuente privado.</sub></p>
     </td>
-    <td valign="middle">
+    <td width="50%" align="center" valign="top">
+      <a href="https://sinergiaestudio.github.io/ZT-AE/">
+        <img src="https://raw.githubusercontent.com/sinergiaestudio/ZT-AE/main/assets/images/ui/title-overhaul-v2.webp" alt="Zanahoria Terminal · Amor en Escabeche" width="100%">
+      </a>
       <h3>Zanahoria Terminal · Amor en Escabeche</h3>
-      <p>Videojuego 2D para navegador creado junto a mi hijo Yaco como proyecto de aprendizaje compartido. Integra programación, narrativa, ilustración, música, accesibilidad y publicación web.</p>
-      <p><a href="https://sinergiaestudio.github.io/ZT-AE/"><strong>Jugar</strong></a> · <a href="https://github.com/sinergiaestudio/ZT-AE">Ver el proyecto</a></p>
+      <p>Videojuego 2D creado junto a mi hijo Yaco como proyecto de aprendizaje compartido. Integra programación, narrativa, ilustración, música y accesibilidad.</p>
+      <p><a href="https://sinergiaestudio.github.io/ZT-AE/"><strong>Jugar</strong></a> · <a href="https://github.com/sinergiaestudio/ZT-AE">Código y documentación</a></p>
     </td>
   </tr>
 </table>
@@ -105,6 +128,8 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
 ## Publicación responsable
 
 Los repositorios públicos contienen código, documentación y ejemplos ficticios o sanitizados. No publico expedientes, documentos clínicos, credenciales, datos personales ni materiales internos.
+
+Algunos repositorios son presentaciones públicas de proyectos cuyo código, arquitectura o documentación operativa permanecen privados. Ese alcance se informa expresamente en cada caso.
 
 Las herramientas vinculadas con la actividad judicial son desarrollos independientes de asistencia. No constituyen sistemas oficiales ni reemplazan la revisión profesional.
 
