@@ -21,7 +21,7 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
     <td align="center" valign="middle">
       <a href="https://sinergiaestudio.github.io/JXJ/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinergiaestudio/marcelo-gomez/main/assets/jxj-dark.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinergiaestudio/marcelo-gomez/7b0d9b1f2a062d12f3f3b5b0c42464acef4bf3f2/assets/jxj-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinergiaestudio/JXJ/main/assets/brand/jxj-logo-general.png">
           <img src="https://raw.githubusercontent.com/sinergiaestudio/JXJ/main/assets/brand/jxj-logo-general.png" alt="JXJ · Juicios por Jurados" width="88%">
         </picture>
@@ -95,7 +95,7 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
       <br>
       <a href="https://github.com/sinergiaestudio/diplomaker">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinergiaestudio/marcelo-gomez/main/assets/diplomaker-dark.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinergiaestudio/marcelo-gomez/11f2f392f0096b077fdec1288e7ce2774b74a314/assets/diplomaker-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinergiaestudio/diplomaker/main/assets/brand/diplomaker-horizontal.svg">
           <img src="https://raw.githubusercontent.com/sinergiaestudio/diplomaker/main/assets/brand/diplomaker-horizontal.svg" alt="Diplomaker" width="82%">
         </picture>
@@ -109,7 +109,7 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
       <br>
       <a href="https://github.com/sinergiaestudio/entheos">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinergiaestudio/marcelo-gomez/main/assets/entheos-dark.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinergiaestudio/marcelo-gomez/128b4ceee12c4769af4b78fc34301404e60ca36f/assets/entheos-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinergiaestudio/entheos/main/docs/brand/entheos-02-logo-completo.png">
           <img src="https://raw.githubusercontent.com/sinergiaestudio/entheos/main/docs/brand/entheos-02-logo-completo.png" alt="Entheos · Tu salud en contexto" width="92%">
         </picture>
