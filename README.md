@@ -10,9 +10,9 @@ Diseño sistemas y experiencias digitales para transformar procesos complejos en
 
 ---
 
-Mi recorrido no es el de un desarrollador de software tradicional. Trabajo desde el conocimiento directo de los problemas —especialmente en el ámbito jurídico y organizacional— y combino análisis, diseño, automatización e inteligencia artificial para construir soluciones concretas.
+Mi relación con la programación comenzó a los diez años. Desde entonces desarrollé páginas web y proyectos vinculados con C++, domótica y automatización. Mi trayectoria profesional incluye también el cálculo estructural y el trabajo sostenido con software técnico especializado.
 
-Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio, preservan la intervención humana y permiten comprender cómo se obtiene cada resultado.
+Hoy integro esa experiencia tecnológica con el derecho y la gestión judicial. Diseño y desarrollo herramientas a partir del estudio de los procesos, sus reglas y sus condiciones reales de uso, combinando software, automatización e inteligencia artificial con trazabilidad, documentación y revisión humana.
 
 ## Sistemas y gestión judicial
 
