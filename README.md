@@ -2,17 +2,17 @@
 
 # Marcelo Gómez
 
-### Gestión judicial · Derecho · Innovación tecnológica aplicada
+### Gestión judicial · Derecho · Diseño y desarrollo de sistemas
 
-Diseño sistemas y experiencias digitales para transformar procesos complejos en recorridos más claros, verificables y humanos.
+Análisis de procesos, desarrollo de sistemas y automatización responsable aplicados a la gestión judicial.
 
 </div>
 
 ---
 
-Mi relación con la programación comenzó a los diez años. Desde entonces desarrollé páginas web y proyectos vinculados con C++, domótica y automatización. Mi trayectoria profesional incluye también el cálculo estructural y el trabajo sostenido con software técnico especializado.
+Trabajo en el ámbito judicial y desarrollo soluciones tecnológicas aplicadas a su gestión. Integro experiencia institucional, formación jurídica y diseño de sistemas para convertir necesidades operativas en herramientas claras, trazables y utilizables, orientadas a mejorar la organización del trabajo y las condiciones para la toma de decisiones.
 
-Hoy integro esa experiencia tecnológica con el derecho y la gestión judicial. Diseño y desarrollo herramientas a partir del estudio de los procesos, sus reglas y sus condiciones reales de uso, combinando software, automatización e inteligencia artificial con trazabilidad, documentación y revisión humana.
+Mi enfoque reúne análisis de procesos, programación, automatización y documentación. La trayectoria técnica —que incluye cálculo estructural y trabajo con software especializado— consolidó una metodología basada en reglas explícitas, control de consistencia, revisión responsable y mejora continua.
 
 ## Sistemas y gestión judicial
 
