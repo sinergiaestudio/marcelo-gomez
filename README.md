@@ -18,27 +18,28 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
 
 <table>
   <tr>
-    <td width="210" align="center" valign="middle">
+    <td align="center" valign="top">
       <a href="https://sinergiaestudio.github.io/JXJ/">
-        <img src="https://raw.githubusercontent.com/sinergiaestudio/JXJ/main/assets/brand/jxj-logo-general.png" alt="JXJ · Juicios por Jurados" width="185">
+        <img src="https://raw.githubusercontent.com/sinergiaestudio/JXJ/main/assets/screens/jxj-public-hero.png" alt="JXJ · Juicios por Jurados" width="100%">
       </a>
-    </td>
-    <td valign="middle">
       <h3>JXJ · Juicios por Jurados</h3>
-      <p>Plataforma especializada para organizar juicios, objetivos, tareas, agenda, padrón, selección de jurados, contabilidad, usuarios y trazabilidad en un único entorno institucional.</p>
+      <p>Gestión, trazabilidad y conducción del juicio en un único entorno institucional. Integra juicios, objetivos, tareas, agenda, padrones, selección de jurados, contabilidad, accesos y continuidad operativa.</p>
       <p><a href="https://sinergiaestudio.github.io/JXJ/"><strong>Ver la presentación</strong></a> · <a href="https://github.com/sinergiaestudio/JXJ">Repositorio público</a></p>
-      <p><sub>Beta institucional avanzada · presentación pública con código fuente privado.</sub></p>
+      <p><sub>JXJ 3.13.0-beta · presentación pública con código fuente privado.</sub></p>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td width="210" align="center" valign="middle">
+    <td width="120" align="center" valign="middle">
       <a href="https://github.com/sinergiaestudio/herramientas-j15sec29">
         <img src="https://raw.githubusercontent.com/sinergiaestudio/herramientas-j15sec29/main/docs/assets/icons/icon-512.png" alt="Herramientas SEC29" width="92">
       </a>
     </td>
     <td valign="middle">
       <h3>Herramientas SEC29</h3>
-      <p>Suite modular para tareas operativas de la Secretaría 29. Integra procesamiento de actuaciones y vencimientos, carga asistida, cédulas y confronte de liquidaciones dentro de una experiencia común.</p>
+      <p>Suite modular para tareas operativas de la Secretaría 29. Integra actuaciones y vencimientos, carga asistida, cédulas y confronte de liquidaciones dentro de una experiencia común.</p>
       <p><a href="https://sinergiaestudio.github.io/herramientas-j15sec29/"><strong>Abrir la suite</strong></a> · <a href="https://github.com/sinergiaestudio/herramientas-j15sec29">Código y documentación</a></p>
     </td>
   </tr>
@@ -51,7 +52,7 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
         <img src="https://raw.githubusercontent.com/sinergiaestudio/Confronte-Liquidaciones-EJF-v2.1.0/main/public/og.png" alt="Confronte de Liquidaciones EJF" width="100%">
       </a>
       <h3>Confronte de Liquidaciones EJF</h3>
-      <p>Compara documentos, permite revisar su lectura y recalcula intereses con trazabilidad por período.</p>
+      <p>Lee, compara y permite revisar liquidaciones, con cálculo de intereses y trazabilidad por período.</p>
       <p><a href="https://sinergiaestudio.github.io/Confronte-Liquidaciones-EJF-v2.1.0/"><strong>Abrir</strong></a> · <a href="https://github.com/sinergiaestudio/Confronte-Liquidaciones-EJF-v2.1.0">Código y documentación</a></p>
     </td>
     <td width="50%" align="center" valign="top">
@@ -76,8 +77,8 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
       </a>
       <h3>Diplomaker</h3>
       <p><strong>Diseñá una vez. Emití con precisión.</strong></p>
-      <p>Estudio local para diseñar plantillas y emitir diplomas o certificados individuales y por lote.</p>
-      <p><a href="https://sinergiaestudio.github.io/diplomaker/"><strong>Abrir</strong></a> · <a href="https://github.com/sinergiaestudio/diplomaker">Código y documentación</a></p>
+      <p>Estudio local y de código abierto para diseñar plantillas y emitir diplomas o certificados individuales y por lote.</p>
+      <p><a href="https://sinergiaestudio.github.io/diplomaker/"><strong>Usar la versión estable</strong></a> · <a href="https://github.com/sinergiaestudio/diplomaker">Código y documentación</a></p>
     </td>
     <td width="50%" align="center" valign="top">
       <br>
@@ -92,9 +93,31 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
   </tr>
 </table>
 
-## Cultura, aprendizaje y experimentación
+## Conocimiento, cultura y creación
 
 <table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://sinergiaestudio.github.io/noosfera-showcase/">
+        <img src="https://raw.githubusercontent.com/sinergiaestudio/noosfera-showcase/main/assets/noosfera-cover.svg" alt="Noósfera · Inteligencia colectiva trazable" width="100%">
+      </a>
+      <h3>Noósfera</h3>
+      <p><strong>Inteligencia colectiva trazable.</strong></p>
+      <p>Atlas local de investigación para convertir preguntas abiertas en corpus revisables, relaciones explícitas, objeciones y síntesis con procedencia.</p>
+      <p><a href="https://sinergiaestudio.github.io/noosfera-showcase/"><strong>Abrir la vitrina</strong></a> · <a href="https://github.com/sinergiaestudio/noosfera-showcase">Repositorio público</a></p>
+      <p><sub>Vitrina metodológica · producto y motores privados.</sub></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/sinergiaestudio/liz-studio-showcase">
+        <img src="https://raw.githubusercontent.com/sinergiaestudio/liz-studio-showcase/main/media/product-archive-showcase.png" alt="LIZ OS Studio" width="100%">
+      </a>
+      <h3>LIZ OS Studio</h3>
+      <p><strong>De una historia a una propuesta audiovisual conectada.</strong></p>
+      <p>Entorno creativo para comprender material narrativo y desarrollar canon, personajes, escenas, guion, dirección visual, tomas y dossier.</p>
+      <p><a href="https://github.com/sinergiaestudio/liz-studio-showcase"><strong>Conocer LIZ</strong></a></p>
+      <p><sub>Showcase público · producto y código en beta privada.</sub></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://tao.ar">
@@ -110,8 +133,9 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
         <img src="https://raw.githubusercontent.com/sinergiaestudio/ZT-AE/main/assets/images/ui/title-overhaul-v2.webp" alt="Zanahoria Terminal · Amor en Escabeche" width="100%">
       </a>
       <h3>Zanahoria Terminal · Amor en Escabeche</h3>
-      <p>Videojuego 2D creado junto a mi hijo Yaco como proyecto de aprendizaje compartido. Integra programación, narrativa, ilustración, música y accesibilidad.</p>
+      <p>Videojuego 2D nacido de la idea de Yaco Gómez y desarrollado juntos como proyecto familiar de aprendizaje, programación y creación.</p>
       <p><a href="https://sinergiaestudio.github.io/ZT-AE/"><strong>Jugar</strong></a> · <a href="https://github.com/sinergiaestudio/ZT-AE">Código y documentación</a></p>
+      <p><sub>Idea original y mérito especial: Yaco Gómez.</sub></p>
     </td>
   </tr>
 </table>
@@ -129,7 +153,7 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
 
 Los repositorios públicos contienen código, documentación y ejemplos ficticios o sanitizados. No publico expedientes, documentos clínicos, credenciales, datos personales ni materiales internos.
 
-Algunos repositorios son presentaciones públicas de proyectos cuyo código, arquitectura o documentación operativa permanecen privados. Ese alcance se informa expresamente en cada caso.
+Algunos repositorios son presentaciones públicas de proyectos cuyo código, arquitectura, corpus o documentación operativa permanecen privados. Ese alcance se informa expresamente en cada caso.
 
 Las herramientas vinculadas con la actividad judicial son desarrollos independientes de asistencia. No constituyen sistemas oficiales ni reemplazan la revisión profesional.
 
