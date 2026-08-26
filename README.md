@@ -20,12 +20,33 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
   <tr>
     <td align="center" valign="middle">
       <a href="https://sinergiaestudio.github.io/JXJ/">
-        <img src="https://raw.githubusercontent.com/sinergiaestudio/JXJ/main/assets/brand/jxj-logo-general.png" alt="JXJ · Juicios por Jurados" width="82%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinergiaestudio/marcelo-gomez/main/assets/jxj-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinergiaestudio/JXJ/main/assets/brand/jxj-logo-general.png">
+          <img src="https://raw.githubusercontent.com/sinergiaestudio/JXJ/main/assets/brand/jxj-logo-general.png" alt="JXJ · Juicios por Jurados" width="88%">
+        </picture>
       </a>
       <p><strong>Gestión, trazabilidad y conducción del juicio en un único entorno institucional.</strong></p>
       <p>Plataforma especializada que integra juicios, objetivos, tareas, agenda, padrones, selección de jurados, contabilidad, accesos y continuidad operativa.</p>
       <p><a href="https://sinergiaestudio.github.io/JXJ/"><strong>Explorar JXJ</strong></a> · <a href="https://github.com/sinergiaestudio/JXJ">Presentación y documentación</a></p>
       <p><sub>JXJ 3.13.0-beta · beta institucional avanzada · código fuente privado.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <a href="https://sinergiaestudio.github.io/razon-judicial-showcase/">
+        <img src="https://raw.githubusercontent.com/sinergiaestudio/razon-judicial-showcase/main/assets/razon-judicial-cover.png" alt="Razón Judicial · Conocimiento jurídico trazable" width="100%">
+      </a>
+    </td>
+    <td valign="middle">
+      <h3>Razón Judicial</h3>
+      <p><strong>Del fallo al conocimiento jurídico trazable.</strong></p>
+      <p>Proyecto en desarrollo para transformar decisiones judiciales en conocimiento estructurado sin perder la relación con la fuente. La IA propone; una persona revisa y decide.</p>
+      <p><a href="https://sinergiaestudio.github.io/razon-judicial-showcase/"><strong>Ver la presentación</strong></a> · <a href="https://github.com/sinergiaestudio/razon-judicial-showcase">Repositorio público</a></p>
+      <p><sub>Vitrina pública · producto y evidencia privados · publicación automática bloqueada.</sub></p>
     </td>
   </tr>
 </table>
@@ -73,7 +94,11 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
     <td width="50%" align="center" valign="top">
       <br>
       <a href="https://github.com/sinergiaestudio/diplomaker">
-        <img src="https://raw.githubusercontent.com/sinergiaestudio/diplomaker/main/assets/brand/diplomaker-horizontal.svg" alt="Diplomaker" width="78%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinergiaestudio/marcelo-gomez/main/assets/diplomaker-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinergiaestudio/diplomaker/main/assets/brand/diplomaker-horizontal.svg">
+          <img src="https://raw.githubusercontent.com/sinergiaestudio/diplomaker/main/assets/brand/diplomaker-horizontal.svg" alt="Diplomaker" width="82%">
+        </picture>
       </a>
       <h3>Diplomaker</h3>
       <p><strong>Diseñá una vez. Emití con precisión.</strong></p>
@@ -83,7 +108,11 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
     <td width="50%" align="center" valign="top">
       <br>
       <a href="https://github.com/sinergiaestudio/entheos">
-        <img src="https://raw.githubusercontent.com/sinergiaestudio/entheos/main/docs/brand/entheos-02-logo-completo.png" alt="Entheos · Tu salud en contexto" width="92%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinergiaestudio/marcelo-gomez/main/assets/entheos-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinergiaestudio/entheos/main/docs/brand/entheos-02-logo-completo.png">
+          <img src="https://raw.githubusercontent.com/sinergiaestudio/entheos/main/docs/brand/entheos-02-logo-completo.png" alt="Entheos · Tu salud en contexto" width="92%">
+        </picture>
       </a>
       <h3>Entheos</h3>
       <p><strong>Tu salud en contexto.</strong></p>
