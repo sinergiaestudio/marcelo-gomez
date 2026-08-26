@@ -18,17 +18,26 @@ Me interesan los sistemas que reducen tareas repetitivas sin ocultar el criterio
 
 <table>
   <tr>
-    <td align="center" valign="top">
+    <td width="170" align="center" valign="middle">
       <a href="https://sinergiaestudio.github.io/JXJ/">
-        <img src="https://raw.githubusercontent.com/sinergiaestudio/JXJ/main/assets/screens/jxj-public-hero.png" alt="JXJ · Juicios por Jurados" width="100%">
+        <img src="https://raw.githubusercontent.com/sinergiaestudio/JXJ/main/assets/brand/jxj-icon.png" alt="Identidad de JXJ · Juicios por Jurados" width="138">
       </a>
-      <h3>JXJ · Juicios por Jurados</h3>
-      <p>Gestión, trazabilidad y conducción del juicio en un único entorno institucional. Integra juicios, objetivos, tareas, agenda, padrones, selección de jurados, contabilidad, accesos y continuidad operativa.</p>
-      <p><a href="https://sinergiaestudio.github.io/JXJ/"><strong>Ver la presentación</strong></a> · <a href="https://github.com/sinergiaestudio/JXJ">Repositorio público</a></p>
-      <p><sub>JXJ 3.13.0-beta · presentación pública con código fuente privado.</sub></p>
+    </td>
+    <td valign="middle">
+      <h2>JXJ · Juicios por Jurados</h2>
+      <p><strong>Gestión, trazabilidad y conducción del juicio en un único entorno institucional.</strong></p>
+      <p>Plataforma especializada que integra juicios, objetivos, tareas, agenda, padrones, selección de jurados, contabilidad, accesos y continuidad operativa.</p>
+      <p><a href="https://sinergiaestudio.github.io/JXJ/"><strong>Explorar JXJ</strong></a> · <a href="https://github.com/sinergiaestudio/JXJ">Presentación y documentación</a></p>
+      <p><sub>JXJ 3.13.0-beta · beta institucional avanzada · código fuente privado.</sub></p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://sinergiaestudio.github.io/JXJ/">
+    <img src="https://raw.githubusercontent.com/sinergiaestudio/JXJ/main/assets/visuals/jxj-sistema.svg" alt="Arquitectura operativa visible de JXJ" width="100%">
+  </a>
+</p>
 
 <table>
   <tr>
