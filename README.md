@@ -37,6 +37,23 @@ Mi enfoque reúne análisis de procesos, programación, automatización y docume
 <table>
   <tr>
     <td width="45%" align="center" valign="middle">
+      <a href="https://github.com/sinergiaestudio/sistema-actuaciones-judiciales-showcase">
+        <img src="https://raw.githubusercontent.com/sinergiaestudio/sistema-actuaciones-judiciales-showcase/main/assets/sistema-actuaciones-cover.svg" alt="Sistema de Actuaciones Judiciales" width="100%">
+      </a>
+    </td>
+    <td valign="middle">
+      <h3>Sistema de Actuaciones Judiciales</h3>
+      <p><strong>Decidir el supuesto. Recuperar la actuación. Conservar el criterio.</strong></p>
+      <p>Sistema en desarrollo para transformar una biblioteca judicial extensa en recorridos guiados, trazables y mantenibles, preservando la fuente canónica, el formato institucional y el control jurídico humano.</p>
+      <p><a href="https://github.com/sinergiaestudio/sistema-actuaciones-judiciales-showcase"><strong>Conocer el proyecto</strong></a></p>
+      <p><sub>Vitrina pública · producto, corpus y código fuente privados.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="middle">
       <a href="https://sinergiaestudio.github.io/razon-judicial-showcase/">
         <img src="https://raw.githubusercontent.com/sinergiaestudio/razon-judicial-showcase/main/assets/razon-judicial-cover.png" alt="Razón Judicial · Conocimiento jurídico trazable" width="100%">
       </a>
