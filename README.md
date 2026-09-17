@@ -2,17 +2,23 @@
 
 # Marcelo Gómez
 
-### Gestión judicial · Derecho · Diseño de sistemas · Análisis de datos
+### Gestión judicial · Derecho · Inteligencia Artificial · Diseño de sistemas
 
-Soluciones tecnológicas para comprender procesos, organizar el trabajo y fortalecer decisiones con trazabilidad y control humano.
+Tecnología aplicada a procesos jurídicos e institucionales, con trazabilidad, control humano y criterio profesional.
 
 </div>
 
 ---
 
-Trabajo en el ámbito judicial y desarrollo sistemas aplicados a su gestión. Integro experiencia institucional, formación jurídica, análisis de procesos y programación para convertir necesidades operativas en herramientas claras, verificables y utilizables.
+Trabajo en el ámbito judicial y desarrollo sistemas aplicados a procesos jurídicos e institucionales. Integro experiencia institucional, formación jurídica, inteligencia artificial, automatización y análisis de datos para convertir necesidades complejas en herramientas claras, verificables y utilizables.
 
-Mi enfoque combina arquitectura funcional, automatización, documentación y mejora continua. La tecnología se incorpora como infraestructura para preservar conocimiento, reducir tareas mecánicas y hacer visibles los criterios que sostienen cada resultado.
+Mi enfoque combina arquitectura funcional, documentación y mejora continua. La tecnología se incorpora como infraestructura para preservar conocimiento, reducir tareas mecánicas y hacer visibles los criterios que sostienen cada resultado.
+
+## Derecho, Justicia e Inteligencia Artificial
+
+Trabajo en la intersección entre tecnología, instituciones y derecho, con especial interés en inteligencia artificial aplicada al ámbito jurídico, automatización de procesos, privacidad, gobernanza, regulación tecnológica, derechos digitales y trazabilidad de sistemas automatizados.
+
+Desde **enero de 2024** participo en [Mundo IA](https://www.mundoia.com.ar/), proyecto dedicado a la divulgación, formación y aplicación práctica de inteligencia artificial. Mi participación comenzó vinculada al análisis, prueba e implementación de herramientas de IA generativa, automatización y diseño de flujos de trabajo, y actualmente se formaliza como **Asesor jurídico y tecnológico**, con especial foco en Derecho, Justicia e Inteligencia Artificial, regulación, gobernanza, privacidad e impacto jurídico de las nuevas tecnologías.
 
 ## Plataformas judiciales principales
 
