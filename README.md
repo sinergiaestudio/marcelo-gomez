@@ -201,13 +201,13 @@ Desde **enero de 2024** participo en [Mundo IA](https://www.mundoia.com.ar/), pr
       <p><sub>Showcase público · producto y código en beta privada.</sub></p>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://sinergiaestudio.github.io/ZT-AE/">
-        <img src="https://raw.githubusercontent.com/sinergiaestudio/ZT-AE/main/assets/images/ui/title-overhaul-v2.webp" alt="Zanahoria Terminal · Amor en Escabeche" width="100%">
+      <a href="https://sendero.arielmarcelogomez7.chatgpt.site">
+        <img src="assets/sendero-cover.webp" alt="Sendero: piezas de papel coral, lila y lima" width="100%">
       </a>
-      <h3>Zanahoria Terminal · Amor en Escabeche</h3>
-      <p>Videojuego 2D de ocho niveles nacido de la idea de Yaco Gómez y desarrollado juntos como proyecto familiar de aprendizaje, programación y creación.</p>
-      <p><a href="https://sinergiaestudio.github.io/ZT-AE/"><strong>Jugar</strong></a> · <a href="https://github.com/sinergiaestudio/ZT-AE">Código y documentación</a></p>
-      <p><sub>Idea original y mérito especial: Yaco Gómez.</sub></p>
+      <h3>Sendero</h3>
+      <p>Mi espacio lúdico: un lugar para pensar, explorar y jugar juntos. Reúne Un Trazo, F1 HOME y Zanahoria Terminal, y abre el camino a nuevos juegos.</p>
+      <p><a href="https://sendero.arielmarcelogomez7.chatgpt.site"><strong>Abrir el portal</strong></a></p>
+      <p><sub>El portal requiere acceso autorizado. Zanahoria Terminal nació de la idea original de Yaco Gómez y fue creado en familia.</sub></p>
     </td>
   </tr>
 </table>
